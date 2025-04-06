@@ -69,9 +69,9 @@ Gerar senha aleatória com 20 caracteres e símbolos:
 
 ## 📂 Estrutura
 
-- `cmd/main.go` – ponto de entrada da aplicação e definição dos comandos  
-- `internals/database` – lógica de persistência e manipulação dos dados
+- `cmd/main.go` – ponto de entrada da aplicação e definição dos comandos
 - `internals/crypto` - lógica de criptografia e descriptografia
+- `internals/database` – lógica de persistência e manipulação dos dados
 
 ## 🔒 Segurança
 
